@@ -1,2 +1,2 @@
 # Projekt_figma
-mój projekt na figmie o kawie
+to jest projekt o kawie
